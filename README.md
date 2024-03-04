@@ -21,7 +21,7 @@
 ### Main skills:
 ![Typescript](http://img.shields.io/badge/-TypeScript-A7EDE7?style-for-the-badge&logo=typescript&labelColor=45CFDD)&nbsp;
 ![CSS](http://img.shields.io/badge/-CSS-A7EDE7?style-for-the-badge&logo=css3&labelColor=45CFDD)&nbsp;
-![Vue.js](http://img.shields.io/badge/-React.js-A7EDE7?style-for-the-badge&logo=react&labelColor=45CFDD)&nbsp;
+![React.js](http://img.shields.io/badge/-React.js-A7EDE7?style-for-the-badge&logo=react&labelColor=45CFDD)&nbsp;
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-A7EDE7?style-for-the-badge&logo=bootstrap&labelColor=45CFDD)&nbsp;
 ![Vue.js](http://img.shields.io/badge/-Vue.js-A7EDE7?style-for-the-badge&logo=vue&labelColor=45CFDD)&nbsp;
 
