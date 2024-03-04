@@ -19,14 +19,14 @@
 </div>
 
 ### Main skills:
-![JavaScript](http://img.shields.io/badge/-JavaScript-A7EDE7?style-for-the-badge&logo=javascript&labelColor=45CFDD)&nbsp;
+![Typescript](http://img.shields.io/badge/-TypeScript-A7EDE7?style-for-the-badge&logo=typescript&labelColor=45CFDD)&nbsp;
 ![CSS](http://img.shields.io/badge/-CSS-A7EDE7?style-for-the-badge&logo=css3&labelColor=45CFDD)&nbsp;
-![React.js](http://img.shields.io/badge/-React.js-A7EDE7?style-for-the-badge&logo=react&labelColor=45CFDD)&nbsp;
+![Vue.js](http://img.shields.io/badge/-React.js-A7EDE7?style-for-the-badge&logo=react&labelColor=45CFDD)&nbsp;
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-A7EDE7?style-for-the-badge&logo=bootstrap&labelColor=45CFDD)&nbsp;
-![Less](http://img.shields.io/badge/-Less-A7EDE7?style-for-the-badge&logo=less&labelColor=45CFDD)&nbsp;
+![Vue.js](http://img.shields.io/badge/-Vue.js-A7EDE7?style-for-the-badge&logo=vue&labelColor=45CFDD)&nbsp;
 
 ### Studying in this moment:
-![React.js](http://img.shields.io/badge/-React.js-9681EB?style-for-the-badge&logo=react&labelColor=6527BE)&nbsp;
+![Vue.js](http://img.shields.io/badge/-Vue.js-9681EB?style-for-the-badge&logo=vue&labelColor=6527BE)&nbsp;
 ![Redux](http://img.shields.io/badge/-Redux-9681EB?style-for-the-badge&logo=redux&labelColor=6527BE)&nbsp;
 ![Wordpress](http://img.shields.io/badge/-Wordpress-9681EB?style-for-the-badge&logo=wordpress&labelColor=6527BE)&nbsp;
 
