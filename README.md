@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9681EB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6527BE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thaísa+Mendes;I'm+29+years+old;I+from+Brazil;I+Graduated+in+archtecture;But+I+study+Front+End+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6527BE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thaísa+Mendes;I'm+30+years+old;I+from+Brazil;I+Graduated+in+archtecture;But+I+study+Front+End+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thaygm&show_icons=true&count_private=true&hide_border=true&title_color=6527BE&icon_color=6527BE&text_color=9681EB&bg_color=A7EDE7" alt="Thaísa Mendes github stats" />
