@@ -19,16 +19,21 @@
 </div>
 
 ### Main skills:
+![Vue.js](http://img.shields.io/badge/-Vue.js-A7EDE7?style-for-the-badge&logo=vue&labelColor=45CFDD)&nbsp;
 ![Typescript](http://img.shields.io/badge/-TypeScript-A7EDE7?style-for-the-badge&logo=typescript&labelColor=45CFDD)&nbsp;
 ![CSS](http://img.shields.io/badge/-CSS-A7EDE7?style-for-the-badge&logo=css3&labelColor=45CFDD)&nbsp;
-![React.js](http://img.shields.io/badge/-React.js-A7EDE7?style-for-the-badge&logo=react&labelColor=45CFDD)&nbsp;
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-A7EDE7?style-for-the-badge&logo=bootstrap&labelColor=45CFDD)&nbsp;
-![Vue.js](http://img.shields.io/badge/-Vue.js-A7EDE7?style-for-the-badge&logo=vue&labelColor=45CFDD)&nbsp;
+![Cypress](http://img.shields.io/badge/-Cypress-A7EDE7?style-for-the-badge&logo=cypress&labelColor=45CFDD)&nbsp;
+
 
 ### Studying in this moment:
 ![Vue.js](http://img.shields.io/badge/-Vue.js-9681EB?style-for-the-badge&logo=vue&labelColor=6527BE)&nbsp;
+![Nuxt.js](http://img.shields.io/badge/-Nuxt.js-A7EDE7?style-for-the-badge&logo=nuxt&labelColor=45CFDD)&nbsp;
 ![Redux](http://img.shields.io/badge/-Redux-9681EB?style-for-the-badge&logo=redux&labelColor=6527BE)&nbsp;
-![Wordpress](http://img.shields.io/badge/-Wordpress-9681EB?style-for-the-badge&logo=wordpress&labelColor=6527BE)&nbsp;
+![Cypress](http://img.shields.io/badge/-Cypress-9681EB?style-for-the-badge&logo=Cypress&labelColor=6527BE)&nbsp;
+![React.js](http://img.shields.io/badge/-React.js-A7EDE7?style-for-the-badge&logo=react&labelColor=45CFDD)&nbsp;
+![Jest](http://img.shields.io/badge/-Jest-A7EDE7?style-for-the-badge&logo=jest&labelColor=45CFDD)&nbsp;
+![Tailwind](http://img.shields.io/badge/-Tailwind-A7EDE7?style-for-the-badge&logo=tailwind&labelColor=45CFDD)&nbsp;
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>
